@@ -1,5 +1,5 @@
 body {
-    color: rgb(224, 93, 236);
+    color: white;
     background: black;
     margin: 0px;
     font-family: "Chakra Petch", sans-serif;
@@ -52,7 +52,7 @@ p {
 
 .categoria-videos img:hover {
     opacity: 1.0;
-    border: 3px solid green;
+    border: 3px solid rgb(0, 89, 255);
 }
 
 .categoria h2 {
